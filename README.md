@@ -1,29 +1,28 @@
-# Welcome to your Lovable project
+# Zeeshan Store - E-Commerce Web Application
 
-This project was built with [Lovable](https://lovable.dev).
+An e-commerce store website built for selling products online with a modern UI and smooth user experience.
 
-## Build with Lovable
+## Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- **Modern UI/UX**: Clean and responsive design for all screen sizes.
+- **Product Catalog**: Easy browsing for products.
+- **Fast Performance**: Built using modern frontend technologies for high speed and performance.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Technologies Used
 
-## Development
+- **React** - Frontend UI library
+- **TypeScript** - For type-safe code
+- **Tailwind CSS** - For styling
+- **TanStack Router / Start** - For routing and data fetching
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Getting Started
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+### Prerequisites
 
-## Built with
+Make sure you have Node.js and npm installed on your machine.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone [https://github.com/zeeshancode03/zeeshan-store.git](https://github.com/zeeshancode03/zeeshan-store.git)
